@@ -13,7 +13,7 @@ def avto_info(kompaniya,model,rangi,korobka,yili,narhi=None):
           'yil':yili,
           'narh':narhi}
     return avto
-print("Saytimizdagi avtolar ro'yxatini shakllantiramiz")
+print("Saytimizdagi avtolar ro'yxatini to'liq shakllantiramiz")
 def avto_kirit():
 avtolar=[]
 while True:
