@@ -14,7 +14,7 @@ def son_top(x):
         savol=int(input('>>>'))
         taxmin+=1
         if uylangan_son>savol:
-            print("Xato men o'ylgan son bundan kattaroq yana harakat qiling: ")
+            print("Xato men o'ylgan son bundan kattaroq yana harakat qiling iltimos: ")
         elif uylangan_son<savol:
             print("Xato men o'ylgan son bundan kichikroq yana harakat qiling: ")
         else:
