@@ -9,7 +9,7 @@ import datetime as dt
 
 # hozir=dt.datetime.now()
 # # print(hozir)
-bugun=dt.date.today()
+# bugun=dt.date.today()
 # # vaqt_hozir=hozir.time()
 # # ramazon=dt.date(2026,2,17)
 # futbol=dt.datetime(2025,12,26,22,50,10)
@@ -61,7 +61,20 @@ bugun=dt.date.today()
 
 # for sana in range(bugun,10,2): 
 #     print(sana)
-print(bugun)
+
+# import datetime as dt
+# # bugun=dt.date.today()
+# # hafta_farq=dt.timedelta(weeks=2)
+# # joriy_sana=bugun
+# # for i in range(1,10):
+# #     print(f"{i}-sana: {joriy_sana}")
+# #     joriy_sana+=hafta_farq
+# def yashagan_kunim(yil=x,oy=y,kun=z):
+
+    
+
+
+
 
 
 
